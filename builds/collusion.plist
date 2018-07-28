@@ -14,8 +14,10 @@
 			<key>CFBundleShortVersionString</key>
 			<string>2.0.1</string>
 			<key>URL</key>
-			<string>https://disconnect.me/collusion.safariextz</string>
+			<string>https://disconnect.me/collusion.chromextz</string>
+			
 		</dict>
 	</array>
 </dict>
 </plist>
+</boolean>
