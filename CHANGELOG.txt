@@ -77,3 +77,4 @@ block the invisible websites that track you.
 * Opens the dropdown faster.
 * Activates scrollbars when the sidebar expands.
 * Finds more favicons to include in the graph.
+* Hello World
